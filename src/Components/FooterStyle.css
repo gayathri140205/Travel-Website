@@ -1,0 +1,69 @@
+.Footer{
+    padding: 0.5rem 0.5rem;
+    width:auto;
+    height:500px;
+    background:#000000;
+    color: #fff;
+}
+.top{
+    display:flex;
+    align-items: center;
+    text-align: start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.top i {
+    color:#fff;
+    font-size:2rem;
+    margin-left:1rem;
+}
+.top i:hover{
+    color:#01959a;
+}
+.bottom{
+    padding-top: 2rem;
+    text-align: start;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.bottom div{
+    display:flex;
+    flex-direction:column;
+    width:x;
+    padding:0px;  
+}
+.bottom h4{
+    font-size:1rem;
+    padding:1rem 0 .8rem 0;
+}
+.bottom ol {
+    padding: 0;
+    margin: 0;
+    list-style-type: disc; /* Display dots instead of numbers */
+}
+
+.bottom li {
+    color: #fff;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    list-style-position: inside;
+}
+
+.bottom a{
+    text-decoration: none;
+    color:#fff;
+    padding-bottom:4rem;
+    font-size:1rem;
+}
+@media screen and (max-width:850px){
+    .Footer{
+        margin:1rem 1rem 0 0;
+    }
+    .Footer{
+        margin: 1rem 1rem 0 0;
+    }
+    .bottom div{
+        width:50%;
+    }
+}
