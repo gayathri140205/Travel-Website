@@ -1,8 +1,10 @@
 .Footer {
-    padding: 0.5rem 0.5rem;
+    padding: 1rem; 
     background: #000000;
     color: #fff;
-    height: 350px; /* Reduced height */
+    width: 100%; 
+    box-sizing: border-box;
+    overflow: hidden; 
 }
 
 .top {
@@ -24,7 +26,7 @@
 }
 
 .bottom {
-    padding-top: 1rem; /* Reduced padding */
+    padding-top: 1rem;
     text-align: start;
     display: flex;
     justify-content: space-between;
@@ -34,13 +36,13 @@
 .bottom div {
     display: flex;
     flex-direction: column;
-    width: 22%; /* Adjusted width for better alignment */
+    width: 22%; 
     padding: 0;  
 }
 
 .bottom h4 {
     font-size: 1rem;
-    padding: 0.5rem 0 0.5rem 0; /* Reduced padding */
+    padding: 0.5rem 0 0.5rem 0; 
 }
 
 .bottom ol {
@@ -64,8 +66,8 @@
 
 @media screen and (max-width: 850px) {
     .Footer {
-        margin: 1rem 1rem 0 0;
-        height: auto; /* Auto height to fit content on small screens */
+        padding: 1rem; 
+        height: auto; 
     }
 
     .bottom div {

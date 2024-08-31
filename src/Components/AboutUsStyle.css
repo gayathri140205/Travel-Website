@@ -18,7 +18,7 @@
 }
 
 .about-text {
-    margin-top: 2rem; /* Space between image and text */
+    margin-top: 2rem; 
 }
 
 @media screen and (max-width:850px){

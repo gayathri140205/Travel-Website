@@ -11,22 +11,22 @@
     margin-top: 3rem;
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap; /* Added to allow wrapping of cards */
-    gap: 1rem; /* Added spacing between cards */
+    flex-wrap: wrap; 
+    gap: 1rem;
 }
 
 .t-card {
     width: 32%;
-    height: auto; /* Set height to auto to allow the card to expand with content */
+    height: auto; 
     text-align: start;
     box-shadow: 0 5px 9px 2px rgba(0, 0, 0, 0.19);
     border-radius: 10px;
     cursor: pointer;
     padding: 1rem 0.8rem;
-    box-sizing: border-box; /* Ensure padding doesn't exceed the width of the card */
+    box-sizing: border-box; 
     display: flex;
-    flex-direction: column; /* Ensure content stacks vertically */
-    justify-content: space-between; /* Ensure content fills the card evenly */
+    flex-direction: column; 
+    justify-content: space-between; 
 }
 
 .t-image {
@@ -37,14 +37,14 @@
 
 .t-image img {
     width: 100%;
-    height: 100%; /* Set height to 100% to fill the image container */
+    height: 100%; 
     transition: 0.3s ease-in-out;
     border-radius: 7px;
-    object-fit: cover; /* Ensure the image maintains aspect ratio and fits the container */
+    object-fit: cover; 
 }
 
 .t-image:hover img {
-    transform: scale(1.1); /* Slightly reduce the scale for better effect */
+    transform: scale(1.1); 
 }
 
 .t-card h4 {
@@ -59,8 +59,8 @@
     }
 
     .tripcard {
-        flex-direction: column; /* Stack the cards vertically on small screens */
-        gap: 1.5rem; /* Space between stacked cards */
+        flex-direction: column; 
+        gap: 1.5rem; 
     }
 
     .t-card {
@@ -69,10 +69,10 @@
     }
 
     .t-image {
-        height: auto; /* Allow image height to adjust based on content */
+        height: auto;
     }
 
     .t-image img {
-        height: auto; /* Maintain the aspect ratio of the image */
+        height: auto; 
     }
 }
