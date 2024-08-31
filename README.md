@@ -1,5 +1,4 @@
-
-𝐓𝐫𝐚𝐯𝐞𝐥𝐥𝐚 - 𝐓𝐫𝐚𝐯𝐞𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞
+ 𝐓𝐫𝐚𝐯𝐞𝐥𝐥𝐚 -𝐓𝐫𝐚𝐯𝐞𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞
 
 Travella is a frontend travel website built with React. This website aims to provide a visually appealing and user-friendly interface for exploring various travel-related information. 
 
