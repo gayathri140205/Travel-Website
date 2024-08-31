@@ -4,11 +4,11 @@ import Navbar from "../Components/Navbar";
 import AboutImg from "../Assets/service.png";
 import Footer from "../Components/Footer";
 import Trip from "../Components/Trip";
-import ServiceImg from "../Assets/ser.jpg";
+// import ServiceImg from "../Assets/ser.jpg";
 
 function Service() {
     // Determine if the screen width is less than or equal to 768px
-    const isMobile = window.innerWidth <= 768;
+    // const isMobile = window.innerWidth <= 768;
 
     return (
         <>
