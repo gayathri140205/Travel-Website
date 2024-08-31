@@ -1,12 +1,13 @@
 
 𝐓𝐫𝐚𝐯𝐞𝐥𝐥𝐚 - 𝐓𝐫𝐚𝐯𝐞𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞
 
-𝚃𝚛𝚊𝚟𝚎𝚕𝚕𝚊 𝚒𝚜 𝚊 𝚏𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚝𝚛𝚊𝚟𝚎𝚕 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 𝚋𝚞𝚒𝚕𝚝 𝚠𝚒𝚝𝚑 𝚁𝚎𝚊𝚌𝚝. 𝚃𝚑𝚒𝚜 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 𝚊𝚒𝚖𝚜 𝚝𝚘 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚊 𝚟𝚒𝚜𝚞𝚊𝚕𝚕𝚢 𝚊𝚙𝚙𝚎𝚊𝚕𝚒𝚗𝚐 𝚊𝚗𝚍 𝚞𝚜𝚎𝚛-𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎 𝚏𝚘𝚛 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚝𝚛𝚊𝚟𝚎𝚕-𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗. 
+Travella is a frontend travel website built with React. This website aims to provide a visually appealing and user-friendly interface for exploring various travel-related information. 
 
-𝚃𝚑𝚎 𝚜𝚒𝚝𝚎 𝚒𝚗𝚌𝚕𝚞𝚍𝚎𝚜 𝚜𝚎𝚟𝚎𝚛𝚊𝚕 𝚙𝚊𝚐𝚎𝚜: 𝙰𝚋𝚘𝚞𝚝, 𝚂𝚎𝚛𝚟𝚒𝚌𝚎, 𝚊𝚗𝚍 𝙲𝚘𝚗𝚝𝚊𝚌𝚝, 𝚊𝚕𝚕 𝚗𝚊𝚟𝚒𝚐𝚊𝚋𝚕𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚊 𝚁𝚎𝚊𝚌𝚝 𝚁𝚘𝚞𝚝𝚎𝚛.  
+The site includes several pages: About, Service, and Contact, all navigable through a React Router.
 
-𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 𝐃𝐞𝐬𝐢𝐠𝐧: 𝚃𝚑𝚎 𝚜𝚒𝚝𝚎 𝚊𝚍𝚓𝚞𝚜𝚝𝚜 𝚝𝚘 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚜𝚌𝚛𝚎𝚎𝚗 𝚜𝚒𝚣𝚎𝚜, 𝚎𝚗𝚜𝚞𝚛𝚒𝚗𝚐 𝚊 𝚜𝚖𝚘𝚘𝚝𝚑 𝚞𝚜𝚎𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚘𝚗 𝚋𝚘𝚝𝚑 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚊𝚗𝚍 𝚖𝚘𝚋𝚒𝚕𝚎 𝚍𝚎𝚟𝚒𝚌𝚎𝚜. 
 
-𝐑𝐞𝐚𝐜𝐭 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬: 𝚄𝚝𝚒𝚕𝚒𝚣𝚎𝚜 𝚛𝚎𝚞𝚜𝚊𝚋𝚕𝚎 𝚁𝚎𝚊𝚌𝚝 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜 𝚏𝚘𝚛 𝚌𝚘𝚗𝚜𝚒𝚜𝚝𝚎𝚗𝚝 𝚜𝚝𝚢𝚕𝚒𝚗𝚐 𝚊𝚗𝚍 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚑𝚎 𝚠𝚎𝚋𝚜𝚒𝚝𝚎.
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 𝐃𝐞𝐬𝐢𝐠𝐧: The site adjusts to different screen sizes, ensuring a smooth user experience on both desktop and mobile devices.
 
-𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧: 𝙸𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚎𝚍 𝚠𝚒𝚝𝚑 𝚁𝚎𝚊𝚌𝚝 𝚁𝚘𝚞𝚝𝚎𝚛 𝚝𝚘 𝚗𝚊𝚟𝚒𝚐𝚊𝚝𝚎 𝚋𝚎𝚝𝚠𝚎𝚎𝚗 𝚔𝚎𝚢 𝚜𝚎𝚌𝚝𝚒𝚘𝚗𝚜: 𝙰𝚋𝚘𝚞𝚝, 𝚂𝚎𝚛𝚟𝚒𝚌𝚎, 𝚊𝚗𝚍 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚙𝚊𝚐𝚎𝚜.
+𝐑𝐞𝐚𝐜𝐭 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬:Utilizes reusable React components for consistent styling and functionality across the website.
+
+𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧: Integrated with React Router to navigate between key sections: About, Service, and Contact pages. 
