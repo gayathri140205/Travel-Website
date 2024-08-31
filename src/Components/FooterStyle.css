@@ -1,46 +1,52 @@
-.Footer{
+.Footer {
     padding: 0.5rem 0.5rem;
-    width:auto;
-    height:500px;
-    background:#000000;
+    background: #000000;
     color: #fff;
+    height: 350px; /* Reduced height */
 }
-.top{
-    display:flex;
+
+.top {
+    display: flex;
     align-items: center;
     text-align: start;
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
 .top i {
-    color:#fff;
-    font-size:2rem;
-    margin-left:1rem;
+    color: #fff;
+    font-size: 2rem;
+    margin-left: 1rem;
 }
-.top i:hover{
-    color:#01959a;
+
+.top i:hover {
+    color: #01959a;
 }
-.bottom{
-    padding-top: 2rem;
+
+.bottom {
+    padding-top: 1rem; /* Reduced padding */
     text-align: start;
-    display:flex;
+    display: flex;
     justify-content: space-between;
-    flex-wrap:wrap;
+    flex-wrap: wrap;
 }
-.bottom div{
-    display:flex;
-    flex-direction:column;
-    width:x;
-    padding:0px;  
+
+.bottom div {
+    display: flex;
+    flex-direction: column;
+    width: 22%; /* Adjusted width for better alignment */
+    padding: 0;  
 }
-.bottom h4{
-    font-size:1rem;
-    padding:1rem 0 .8rem 0;
+
+.bottom h4 {
+    font-size: 1rem;
+    padding: 0.5rem 0 0.5rem 0; /* Reduced padding */
 }
+
 .bottom ol {
     padding: 0;
     margin: 0;
-    list-style-type: disc; /* Display dots instead of numbers */
+    list-style-type: disc;
 }
 
 .bottom li {
@@ -50,21 +56,20 @@
     list-style-position: inside;
 }
 
-.bottom a{
+.bottom a {
     text-decoration: none;
-    color:#fff;
-    padding-bottom:4rem;
-    font-size:1rem;
+    color: #fff;
+    font-size: 1rem;
 }
-@media screen and (max-width:850px){
-    .Footer{
-        margin:1rem 1rem 0 0;
-    }
-    .Footer{
+
+@media screen and (max-width: 850px) {
+    .Footer {
         margin: 1rem 1rem 0 0;
+        height: auto; /* Auto height to fit content on small screens */
     }
-    .bottom div{
-        width:50%;
-        padding-bottom:10px;
+
+    .bottom div {
+        width: 50%;
+        padding-bottom: 10px;
     }
 }
