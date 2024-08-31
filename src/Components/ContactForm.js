@@ -6,7 +6,7 @@ import "./ContactFormStyle.css";
 function ContactForm(){
     return(
         <div className="From-container">
-          <h1>Send a message to us</h1>
+          <h1>Send a message </h1>
           <form>
             <input placeholder="Name"></input>
             <input placeholder="Email"></input>
